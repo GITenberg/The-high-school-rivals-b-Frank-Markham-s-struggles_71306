@@ -1,5 +1,8 @@
 _repo: The-high-school-rivals-b-Frank-Markham-s-struggles_71306
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71306-h/images/cover.jpg
 creator:
   author:
     agent_name: Webster, Frank V.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1955
     wikipedia: https://en.wikipedia.org/wiki/Frank_V._Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71306#The-high-school-rivals-b-Frank-Markham-s-struggles
 gutenberg_issued: '2023-07-30'
 identifiers:
   gutenberg: '71306'
